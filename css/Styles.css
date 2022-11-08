@@ -1,0 +1,40 @@
+#Paragraph1 {
+    font-family: 'Syncopate', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+}
+#Button1 {
+    visibility: hidden;
+    text-align: center;
+    margin: 10px;
+    width: 900px;
+    height: 100px;
+    background-color: rgb(16, 239, 168);
+    font-size: 20px;
+}
+
+#Button1:hover {
+    background-color: rgb(241, 146, 146);
+    transition: 1s;
+}
+
+#Button2 {
+    text-align: center;
+    margin: 10px;
+    width: 900px;
+    height: 100px;
+    background-color: rgb(4, 205, 255);
+    font-size: 20px;
+}
+
+#Button2:hover {
+    background-color: rgb(250, 255, 146);
+    transition: 1s;
+}
+
+html{
+    background-color: rgb(171, 254, 254);
+}
+

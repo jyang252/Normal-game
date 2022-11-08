@@ -1,0 +1,35 @@
+html{
+    background-color: rgba(21, 138, 255, 0.482);
+}
+
+h1{
+    background-color: white;
+    text-align: center;
+}
+
+#Button4 {
+    text-align: center;
+    margin: 10px;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(84, 248, 100);
+    font-size: 20px;
+}
+
+#Button4:hover {
+    background-color: rgb(0, 248, 95);
+    transition: 1s;
+}
+#Button5 {
+    text-align: center;
+    margin: 10px;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(84, 248, 100);
+    font-size: 20px;
+}
+
+#Button5:hover {
+    background-color: rgb(0, 248, 95);
+    transition: 1s;
+}

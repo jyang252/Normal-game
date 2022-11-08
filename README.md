@@ -1,2 +1,2 @@
 # Normal-game
-average and normal game
+Escape the alien

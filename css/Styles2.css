@@ -1,0 +1,25 @@
+html{
+    background-color: rgb(250, 92, 68);
+}
+
+#Paragraph2{
+    font-family: 'Syncopate', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin: 100px;
+    background-color: yellow;
+}
+
+#Button3 {
+    text-align: center;
+    margin: 10px;
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(84, 248, 100);
+    font-size: 20px;
+}
+
+#Button3:hover {
+    background-color: rgb(0, 248, 95);
+    transition: 1s;
+}
